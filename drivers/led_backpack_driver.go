@@ -1,4 +1,6 @@
 package drivers
+// These drivers were developed for the Adafruit Mini 8x8 LED Matrix w/I2C Backpack.
+// https://www.adafruit.com/products/959
 
 import (
 	"fmt"
